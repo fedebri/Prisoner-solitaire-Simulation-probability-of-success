@@ -12,7 +12,10 @@
 
 The deck is made up with 40 cards, divided into 4 suits each
  consisting of 10 cards whose values range from 1 to 10
- Wins are stored in a dictioonary as 'O', losses as 'X'
- The deck is initialized as a list
+ Wins are stored in a dictioonary as 'O', losses as 'X'.
+ The deck is initialized as a list and the program scans
+ sequentially all the elements in the list and checks for
+ equivalencies.
+ If the end of the list is reached the win counter is increased.
 
  
