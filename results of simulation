@@ -1,10 +1,10 @@
-After running simGames(carte, 10000000) I obtained this values
+simGames(carte, 10000000) runs 10 mln games and returns this values
 {'O': 83437, 'X': 9916563}
 which yields a probability of success of 0.0083437 with average number 
 of trials needed to obtain a success of approximately 119
 
 The probability of success slightly increases as the number of simulations increases.
 
-This result is coherent with calculation performed in this blog [in italian], though the follow
+This result is coherent with calculation performed in this blog [in italian], though they follow
 a completely different different path to solve this problem
 https://www.matematicamente.it/forum/solitario-del-carcerato-proposto-da-whiles-sez-statistica-t66358.html
