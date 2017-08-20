@@ -1,4 +1,4 @@
-simGames(carte, 10000000) runs 10 mln games and returns this values
+simGames(carte, 10000000) plays the game 10 mln times and returns this values
 {'O': 83437, 'X': 9916563}
 which yields a probability of success of 0.0083437 with average number 
 of trials needed to obtain a success of approximately 119
